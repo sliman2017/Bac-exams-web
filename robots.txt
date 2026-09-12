@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://your-sliman2017.github.io/bac-exams-web/sitemap.xml
